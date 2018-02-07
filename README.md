@@ -21,9 +21,9 @@ to_odf(text, annotations, 'helloworld.odt')
 
 ```
 
-In word:
+In MS Word:
 
-![alt text](https://raw.githubusercontent.com/ewoij/annotations-to-odf/readme_images/helloworld_output.png)
+![alt text](https://raw.githubusercontent.com/ewoij/annotations-to-odf/master/readme_images/helloworld_output.png)
 
 # Dependency
  - odfpy (tested with 1.3.5)

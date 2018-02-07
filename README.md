@@ -1,7 +1,7 @@
-# annotations-to-odf
+# Annotations To ODF
 Generate an annotated OpenDocument from a text and list of annotations. Useful to quickly share some annotations.
 
-# Example
+## Example
 
 ```python
 from annos_to_odf import to_odf
@@ -25,5 +25,5 @@ In MS Word:
 
 ![alt text](https://raw.githubusercontent.com/ewoij/annotations-to-odf/master/readme_images/helloworld_output.png)
 
-# Dependency
+## Dependency
  - odfpy (tested with 1.3.5)
